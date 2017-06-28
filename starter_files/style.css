@@ -84,11 +84,11 @@ thead {
 td {
   padding: 5px 5px;
   border: 1px solid #046c97;
+  margin: 0 auto;
 }
 
 td img {
   width: 60px;
-  margin: 0 auto;
 }
 
 form {
